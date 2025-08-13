@@ -7,4 +7,8 @@ public class Test {
 		System.out.println("Addition Method");
 	}
 
+	public void m1()
+	{
+
+		
 }
